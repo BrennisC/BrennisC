@@ -80,10 +80,3 @@
 </table>
 
 ---
-
-### 📊 Mis Estadísticas y Actividad
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrennisC&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estadísticas de BrennisC" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennisC&layout=compact&langs_count=8&theme=merko" alt="Lenguajes más usados" height="170"/>
-</div>
